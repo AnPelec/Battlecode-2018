@@ -306,7 +306,6 @@ def find_free_locations_in_Mars():
 					# use this to show where the error was
 					traceback.print_exc()
 		
-# motherfucking thing does not work
 # I have to binary search to find the dimensions of the map?
 
 class GeneralActions(object):
